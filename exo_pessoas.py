@@ -34,3 +34,10 @@ print(f'tem {len(lista)} pessoas')
 print(f'idade media é {idade_media}')
 print(mulheres)
 print(velhos)
+
+
+
+
+##COMentario teste do git hub
+
+print("Vamo github caralho")
